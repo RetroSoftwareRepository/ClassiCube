@@ -31,8 +31,8 @@ Run ClassiCube.exe, then click Singleplayer at the main menu.
 **Multiplayer**
 Run ClassiCube.exe. You can connect to LAN/locally hosted servers, ~~minecraft.net servers,~~ and classicube.net servers through the launcher.
 
-###### *Windows specific*
-*If you are stuck using the built-in OpenGL 1.1 software renderer, you can use the MESA software renderer from [here](http://download.qt.io/development_releases/prebuilt/llvmpipe/windows/) for slightly better performance. Typically though, this occurs because you have not installed GPU drivers.*
+###### *Stuck on OpenGL 1.1?*
+*If you are need to use the OpenGL 1.1 software renderer due to older GPU, such as an ATI RAGE series card in an older laptop or PowerPC Mac, add `-DCC_
 
 ### Compiling - Windows
 
